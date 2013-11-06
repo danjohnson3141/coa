@@ -1,0 +1,36 @@
+.qty {
+	width: 40px;
+	color: blue;
+}
+
+body {
+	color: #333;
+	font-family: Tahoma;
+	font-size: 12px;
+}
+
+.table1 {
+	padding: 2px;
+	border: 1px solid black;
+	border-radius:18px;
+	-webkit-box-shadow: rgba(55,132,153,1) 8px 8px 8px;
+	-moz-box-shadow: rgba(55,132,153,1) 8px 8px 8px;
+	box-shadow: rgba(55,132,153,.5) 8px 8px 8px;
+	background-color: black;
+}
+.table2 {
+	
+	background-color: black;
+	border-radius:6px;
+}
+
+.text {
+	color: grey;
+	font-size: 12px;
+}
+
+.title {
+	color: #2096d6;
+	text-shadow: 1px 1px #678493;
+	font-weight: bold;
+}
